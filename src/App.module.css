@@ -1,0 +1,8 @@
+.App{
+    background:#54c3ef;
+    font-family: 'Poppins', sans-serif;
+    width: 100%;
+    min-height: 100vh;
+    padding: 4% 16%;
+    box-sizing: border-box;
+}
